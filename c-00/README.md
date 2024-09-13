@@ -2,44 +2,44 @@
 All exercises from list C 00.
 
 ## EX00 - ft_putchar
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_putchar(char c) que exiba o caractere passado como parâmetro.
+Write a function void	ft_putchar(char c) that displays the character passed as a parameter.
 
 ## EX01 - ft_print_alphabet
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_print_alphabet(void) que exiba o alfabeto em minúsculas, numa única linha, em ordem crescente, começando pela letra 'a'.
+Write a function void	ft_print_alphabet(void) that prints the alphabet in lowercase, on a single line, in ascending order, starting with the letter 'a'.
 
 ## EX02 - ft_print_reverse_alphabet
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_print_reverse_alphabet(void) que exiba o alfabeto em minúsculas, numa única linha, em ordem decrescente, começando pela letra 'z'.
+Write a function void	ft_print_reverse_alphabet(void) that prints the alphabet in lowercase, on a single line, in descending order, starting with the letter 'z'.
 
 ## EX03 - ft_print_numbers
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_print_numbers(void) que exiba todos os dígitos, em uma única linha, em ordem crescente.
+Write a function void	ft_print_numbers(void) that displays all the digits, on a single line, in ascending order.
 
 ## EX04 - ft_is_negative
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_is_negative(int n) que exiba 'N' ou 'P' segundo o sinal do inteiro passado como parâmetro. Se n for negativo, exiba 'N'. Se n for positivo ou nulo, exiba 'P'.
+Write a function void	ft_is_negative(int n) that displays 'N' or 'P' depending on the sign of the integer passed as a parameter. If n is negative, display 'N'. If n is positive or zero, display 'P'.
 
 ## EX05 - ft_print_comb
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_print_comb(void) que exiba, em ordem crescente, todas as diferenças combinações de três dígitos diferentes em ordem crescente. Exemplo:
+Write a function void	ft_print_comb(void) that displays, in ascending order, all the different combinations of three different digits in ascending order. Example:
 
-```
+```*
 $>./a.out | cat -e
 012, 013, 014, 015, 016, 017, 018, 019, 023, ..., 789$>
 ```
 
 ## EX06 - ft_print_comb2
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_print_comb2(void) que exiba todas as diferentes combinações de dois números entre 0 e 99, em ordem crescente. Exemplo:
+Write a function void	ft_print_comb2(void) that displays all the different combinations of two numbers between 0 and 99, in ascending order. Example:
 
 ```
 $>./a.out | cat -e
@@ -47,18 +47,20 @@ $>./a.out | cat -e
 ```
 
 ## EX07 - ft_putnbr
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_putnbr(int nb) que exiba um número passado como parâmetro. A função deverá ser capaz de representar a totalidade dos valores possíveis em uma variável do tipo int.
+Write a function void	ft_putnbr(int nb) that displays a number passed as a parameter. The function must be able to represent all possible values ​​in an int type variable.
+
+
 
 ## EX08 - ft_print_combn (TODO) ⭐
-**Funções permitidas:** write
+**Allowed functions:** write
 
-Escreva uma função void ft_print_combn(int n) que exiba todas as diferenças combinações de n números em ordem crescente. Exemplo para n = 2:
+Write a function void	ft_print_combn(int n) that displays all the different combinations of n numbers in ascending order. Example for n = 2:
 
 ```
 $>./a.out | cat -e
 01, 02, 03, ..., 09, 12, ..., 79, 89$>
 ```
 
-*n será tal que: 0 < n < 10.*
+*n will be such that: 0 < n < 10.*
