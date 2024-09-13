@@ -1,7 +1,0 @@
-{
-	"files.associations": {
-		".env*": "dotenv",
-		"unistd.h": "c",
-		"stdio.h": "c"
-	}
-}
