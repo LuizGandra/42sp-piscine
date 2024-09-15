@@ -1,6 +1,19 @@
 # 42SP - Piscine
 Resolutions of the C exercises from the [42SP](https://www.42sp.org.br/) piscine.
 
+## How to test 
+Exercises should preferably be compiled **cc** or **gcc**, as below:
+
+```
+$> cc -Wall -Werror -Wextra *.c
+```
+
+```
+$> gcc -Wall -Werror -Wextra *.c
+```
+
+*All exercises are done following the [Norminette](https://github.com/42School/norminette).*
+
 ## Lists
 - C 00:
 	- [x] EX00: ft_putchar
