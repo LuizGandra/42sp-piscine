@@ -51,8 +51,6 @@ $>./a.out | cat -e
 
 Write a function void	ft_putnbr(int nb) that displays a number passed as a parameter. The function must be able to represent all possible values ​​in an int type variable.
 
-
-
 ## EX08 - ft_print_combn (TODO) ⭐
 **Allowed functions:** write
 
