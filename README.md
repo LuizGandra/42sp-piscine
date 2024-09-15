@@ -11,7 +11,7 @@ Resolutions of the C exercises from the [42SP](https://www.42sp.org.br/) piscine
 	- [x] EX05: ft_print_comb
 	- [x] EX06: ft_print_comb2
 	- [x] EX07: ft_putnbr
-	- [ ] EX08: ft_print_combn (TODO)
+	- [ ] EX08: ft_print_combn (TODO) ⭐
 
 - C 01:
 	- [x] EX00: ft_ft
