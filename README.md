@@ -2,7 +2,7 @@
 Resolutions of the C exercises from the [42SP](https://www.42sp.org.br/) piscine.
 
 ## How to test 
-Exercises should preferably be compiled **cc** or **gcc**, as below:
+Exercises should preferably be compiled using **cc** or **gcc**, as below:
 
 ```
 $> cc -Wall -Werror -Wextra *.c
@@ -51,3 +51,11 @@ $> gcc -Wall -Werror -Wextra *.c
 	- [x] EX10: ft_strlcpy
 	- [x] EX11: ft_putstr_non_printable
 	- [ ] EX12: ft_print_memory (TODO)
+
+- C 03:
+	- [x] EX00: ft_strcmp
+	- [x] EX01: ft_strncmp
+	- [x] EX02: ft_strcat
+	- [x] EX03: ft_strncat
+	- [x] EX04: ft_strstr
+	- [x] EX05: ft_strlcat
