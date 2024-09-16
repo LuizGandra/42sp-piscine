@@ -69,3 +69,14 @@ $> gcc -Wall -Werror -Wextra *.c
 	- [x] EX03: ft_atoi
 	- [x] EX04: ft_putnbr_base ⭐
 	- [ ] EX05: ft_atoi_base (TODO) ⭐
+
+- C 05:
+	- [x] EX00: ft_iterative_factorial
+	- [x] EX01: ft_recursive_factorial
+	- [x] EX02: ft_iterative_power
+	- [x] EX03: ft_recursive_power
+	- [x] EX04: ft_fibonacci
+	- [x] EX05: ft_sqrt
+	- [x] EX06: ft_is_prime
+	- [x] EX07: ft_find_next_prime
+	- [ ] EX08: ft_ten_queens_puzzle (TODO) ⭐
