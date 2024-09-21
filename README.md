@@ -86,3 +86,11 @@ $> gcc -Wall -Werror -Wextra *.c
 	- [x] EX01: ft_print_params
 	- [x] EX02: ft_rev_params
 	- [x] EX03: ft_sort_params
+
+- C 07:
+	- [x] EX00: ft_strdup
+	- [ ] EX01: ft_range
+	- [ ] EX02: ft_ultimate_range
+	- [ ] EX03: ft_strjoin
+	- [ ] EX04: ft_convert_base
+	- [ ] EX05: ft_split
