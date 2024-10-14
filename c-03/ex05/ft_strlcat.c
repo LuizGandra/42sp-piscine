@@ -13,7 +13,7 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 	if (size <= dest_len)
 		return (size + src_len);
 	i = 0;
-	while (*src && i < size - dest_len - 1)
+	while (src[i] && i < size - dest_len - 1)
 	{
 		dest[dest_len + i] = src[i];
 		i++;
