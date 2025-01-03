@@ -1,5 +1,5 @@
-# 42SP - Piscine
-Resolutions of the C exercises from the [42SP](https://www.42sp.org.br/) piscine.
+# 42sp - Piscine
+Resolution of all the C exercises that I solved during the [42sp](https://www.42sp.org.br/) piscine.
 
 ## How to test 
 Exercises should preferably be compiled using **cc** or **gcc**, as below:
