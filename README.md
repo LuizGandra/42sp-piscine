@@ -89,6 +89,6 @@ $> gcc -Wall -Werror -Wextra *.c
 	- [x] EX00: ft_strdup
 	- [x] EX01: ft_range
 	- [x] EX02: ft_ultimate_range
-	- [ ] EX03: ft_strjoin
+	- [x] EX03: ft_strjoin
 	- [ ] EX04: ft_convert_base
 	- [ ] EX05: ft_split
