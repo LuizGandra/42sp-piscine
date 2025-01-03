@@ -28,6 +28,6 @@ int	main(void)
 	char	str[] = "strdup example";
 	printf("String address: %p\n", str);
 	printf("Duplicated string address: %p\n", ft_strdup(str));
-	printf("Duplicated string address: %s\n", ft_strdup(str));
+	printf("Duplicated string value: %s\n", ft_strdup(str));
 }
 */
